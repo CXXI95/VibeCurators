@@ -1,5 +1,12 @@
 # VibeLens: Semantic Movie Recommender
 
+Group 08 Vibe Curators:  
+ZICHUAN ZHOU, 862638227, zzhou265@ucr.edu  
+KEVIN BACH, 862194701, kbach010@ucr.edu  
+KELSEY MUSOLF, 862191249, kmuso001@ucr.edu  
+XIAO GAO, 862188094, xgao045@ucr.edu  
+ANIKA SOOD, 862283943, asood008@ucr.edu
+
 A vector embedding-based movie recommendation system using RAG and PostgreSQL+pgvector for UC Riverside's Big Data Management course.
 
 ## 📋 Project Overview
